@@ -8,3 +8,8 @@ l.pazm@uniandes.edu.co
 REPOSITORIO
 
 https://github.com/luisalexander0921/proyectofinal-l.pazm
+
+
+DESPLIEGUE
+
+https://proyecto-final-pazm-brsouqc4h.vercel.app/
